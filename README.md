@@ -15,6 +15,7 @@ I have tested with various motors from
 - Robofocus
 - Moonlite
 - USB_Focus
+
 All of them use the DB9 male connectors. It also works with the popular DIY stepper motors:
 - 28BYJ-48  (5V and 12V)
 - 17HS13-0404S-PG27 (12V)
