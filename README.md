@@ -10,6 +10,7 @@ Features:
 - Temperature sensor
 - compatible with Moonlite ASCOM driver
 - compatible with commercially available focuser motors.
+
 I have tested with various motors from
 - Robofocus
 - Moonlite
